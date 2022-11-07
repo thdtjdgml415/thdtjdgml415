@@ -1,11 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SOngS&fontSize=90)
 
 
-### 방문자 수
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthdtjdgml415%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=buymeacoffee.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### SOngS   
-### :기술: 프로그래밍 & 마크업 언어
+### 기술: 프로그래밍 & 마크업 언어
 <p>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"></a>
