@@ -35,7 +35,8 @@
 ### 💻 리액트/뷰 수업 예제
 [vueapi96.web.app](https://vueapi96.web.app/) 뷰 API 사이트      
 https://vueclass99.web.app/ 뷰 사이트1   
-https://nimble-conkies-9da0b9.netlify.app 리액트 API 사이트   
-https://willowy-sprinkles-52caa2.netlify.app 리액트 사이트   
+[https://nimble-conkies-9da0b9.netlify.app](https://reactapi99.netlify.app/) 리액트 API 사이트   
+[https://willowy-sprinkles-52caa2.netlify.app](https://reactclass99.netlify.app/) 리액트 사이트   
+
 
 
