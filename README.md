@@ -38,5 +38,5 @@ https://vueclass99.web.app/ 뷰 사이트1
 [https://nimble-conkies-9da0b9.netlify.app](https://reactapi99.netlify.app/) 리액트 API 사이트   
 [https://willowy-sprinkles-52caa2.netlify.app](https://reactclass99.netlify.app/) 리액트 사이트   
 
-
+https://bitbucket.org/300billion/workspace/overview/ 비트버킷에서 현재 사이드 프로젝트를 진행하고 있습니다.
 
