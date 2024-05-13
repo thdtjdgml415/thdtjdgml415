@@ -40,3 +40,6 @@ https://vueclass99.web.app/ 뷰 사이트1
 
 https://bitbucket.org/300billion/workspace/overview/ 비트버킷에서 현재 사이드 프로젝트를 진행하고 있습니다.
 
+## 블로그   
+https://next-blog-techsongblog.vercel.app/ 블로그를 운영하고 있습니다.
+
