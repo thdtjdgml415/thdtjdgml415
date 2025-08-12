@@ -32,14 +32,6 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thdtjdgml415&show_icons=true&theme=radical)
 
 
-### 💻 리액트/뷰 수업 예제
-[vueapi96.web.app](https://vueapi96.web.app/) 뷰 API 사이트      
-https://vueclass99.web.app/ 뷰 사이트1   
-[https://nimble-conkies-9da0b9.netlify.app](https://reactapi99.netlify.app/) 리액트 API 사이트   
-[https://willowy-sprinkles-52caa2.netlify.app](https://reactclass99.netlify.app/) 리액트 사이트   
-
-https://bitbucket.org/300billion/workspace/overview/ 비트버킷에서 현재 사이드 프로젝트를 진행하고 있습니다.
-
 ## 블로그   
 https://next-blog-techsongblog.vercel.app/ 블로그를 운영하고 있습니다.
 
